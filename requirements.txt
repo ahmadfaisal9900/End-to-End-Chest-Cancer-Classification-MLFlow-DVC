@@ -1,9 +1,9 @@
-tensorflow==2.16.2
+tensorflow==2.17.0
 pandas 
 gdown
 dvc
-mlflow==2.2.2
 notebook
+mlflow
 numpy
 matplotlib
 seaborn
